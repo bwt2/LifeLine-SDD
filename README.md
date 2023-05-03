@@ -5,5 +5,3 @@ Desktop reminder app using python and SQLite3
 Writers:  
 Brian  T  
 Ezekiel P  
-
-I want this changed NOW
